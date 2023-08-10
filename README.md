@@ -1,3 +1,17 @@
+
+# Sources for reading
+
+### Hook API
+https://docs.strapi.io/dev-docs/api/plugins/admin-panel-api#hooks-api 
+
+### Generate Plugin
+https://docs.strapi.io/dev-docs/plugins-development
+
+
+### Lessons learned from building the LottieFiles custom field for Strapi
+https://www.youtube.com/watch?v=i9Q05UyRFyc
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.

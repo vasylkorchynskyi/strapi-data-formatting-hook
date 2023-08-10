@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "articles",
+  "info": {
+    "singularName": "article",
+    "pluralName": "articles",
+    "displayName": "article",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "created": {
+      "type": "datetime"
+    },
+    "title": {
+      "type": "string"
+    },
+    "cccc": {
+      "type": "date"
+    }
+  }
+}
